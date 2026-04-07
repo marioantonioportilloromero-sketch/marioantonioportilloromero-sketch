@@ -1,15 +1,18 @@
-Hola, soy Mario Portillo 👋
+# Hola, soy Mario Portillo 👋
 Desarrollador fullstack enfocado en construir soluciones web funcionales y bien estructuradas. Actualmente estudiante de Ingeniería en Sistemas, con experiencia en proyectos reales llevados a producción.
 
-🧑‍💻 Sobre mí
+--- 
+
+#3 Sobre mí
 
 🎓 Estudiando Ingeniería en Sistemas Computacionales
 🚀 Apasionado por el desarrollo backend y las arquitecturas limpias
 🛠️ Me interesa el diseño de bases de datos, APIs REST y el despliegue en producción
 📍 México
 
+--- 
 
-🔧 Tecnologías y herramientas
+## 🔧 Tecnologías y herramientas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,8 +25,9 @@ Desarrollador fullstack enfocado en construir soluciones web funcionales y bien 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
-📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=marioantonioportilloromero-sketch&theme=tokyonight&hide_border=true&locale=es" />
 </p>
