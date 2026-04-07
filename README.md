@@ -1,5 +1,15 @@
-### 🖥️ Languages, Frameworks & Tools
+Hola, soy Mario Portillo 👋
+Desarrollador fullstack enfocado en construir soluciones web funcionales y bien estructuradas. Actualmente estudiante de Ingeniería en Sistemas, con experiencia en proyectos reales llevados a producción.
 
+🧑‍💻 Sobre mí
+
+🎓 Estudiando Ingeniería en Sistemas Computacionales
+🚀 Apasionado por el desarrollo backend y las arquitecturas limpias
+🛠️ Me interesa el diseño de bases de datos, APIs REST y el despliegue en producción
+📍 México
+
+
+🔧 Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -10,4 +20,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+
+📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marioantonioportilloromero-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioantonioportilloromero-sketch&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
