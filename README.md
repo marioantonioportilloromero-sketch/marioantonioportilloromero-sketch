@@ -10,6 +10,7 @@ Desarrollador fullstack enfocado en construir soluciones web funcionales y bien 
 
 
 🔧 Tecnologías y herramientas
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -24,7 +25,7 @@ Desarrollador fullstack enfocado en construir soluciones web funcionales y bien 
 
 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marioantonioportilloromero-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marioantonioportilloromero-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioantonioportilloromero-sketch&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioantonioportilloromero-sketch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
