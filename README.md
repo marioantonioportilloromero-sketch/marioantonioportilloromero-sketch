@@ -25,7 +25,5 @@ Desarrollador fullstack enfocado en construir soluciones web funcionales y bien 
 
 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marioantonioportilloromero-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioantonioportilloromero-sketch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=marioantonioportilloromero-sketch&theme=tokyonight&hide_border=true&locale=es" />
 </p>
