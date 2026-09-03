@@ -3,7 +3,7 @@ Desarrollador fullstack enfocado en construir soluciones web funcionales y bien 
 
 --- 
 
-#3 Sobre mí
+#Sobre mí
 
 🎓 Estudiando Ingeniería en Sistemas Computacionales
 🚀 Apasionado por el desarrollo backend y las arquitecturas limpias
