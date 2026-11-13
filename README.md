@@ -1,9 +1,9 @@
-# Hola, soy Mario Portillo 👋
+# Hola, soy Mario Portillo 
 Desarrollador fullstack enfocado en construir soluciones web funcionales y bien estructuradas. Actualmente estudiante de Ingeniería en Sistemas, con experiencia en proyectos reales llevados a producción.
 
 --- 
 
-#Sobre mí
+# Sobre mí
 
 🎓 Estudiando Ingeniería en Sistemas Computacionales
 🚀 Apasionado por el desarrollo backend y las arquitecturas limpias
@@ -38,7 +38,4 @@ Desarrollador fullstack enfocado en construir soluciones web funcionales y bien 
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=marioantonioportilloromero-sketch&theme=tokyonight&hide_border=true&locale=es" />
-</p>
+
